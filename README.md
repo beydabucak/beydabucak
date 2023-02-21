@@ -1,5 +1,5 @@
 #  About Me:
-I'm a computer enginnering in my sophomore year. <br>I have knowledge on python, c, c# programming languages.<br> I'm interested in AI and I want to be an AI, ML Intern.<br> I'm interested in new technologies including Computer Vision, Face Recognition and Generative AI.
+I'm a computer engineering student in my sophomore year. <br>I have knowledge on python, c, c# programming languages.<br> I'm interested in AI and I want to be an AI, ML Intern.<br> I'm interested in new technologies including Computer Vision, Face Recognition and Generative AI.
 
 
 ## 🌐 Socials:
